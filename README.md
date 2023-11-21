@@ -29,7 +29,8 @@ print(round(dis,2))
 
 
 ### OUTPUT:
-![output](/diatance%20between%20two%20points.png)
+![diatance-between-two-points](https://github.com/Thilakeshwaran/DISTANCE-BETWEEN-TWO-POINTS/assets/147473132/69d772ca-6bee-4a7a-a823-3703893b6aac)
+
 
 ### RESULT:
 The given program is executed successfully
